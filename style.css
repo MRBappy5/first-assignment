@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+nav li{
+    list-style-type: none;
+    float:left;
+    padding-right: 20px;
+}
+nav li a{
+    text-decoration: none;
+    color: grey;
+    padding: ;
+
+}
+.heading-top{
+        color: tomato;
+}
+.first-div{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+}
+.first-div img{
+        width: 80%;
+        margin-right: 10%;
+        
+}
+.first-text{
+    padding-top: 150px;
+    margin-left: 7%;
+   
+    
+}
+.first-text p{
+        width: 300px;
+        margin-bottom: 50px;
+}
+h1{
+    font-size: 50px;
+    line-height: 20px;
+}
+.top-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, lightsalmon, tomato);
+        color: white;
+        padding: 20px 40px;
+        font-weight: 900;
+        border-radius: 5px;
+}
+.second-sec{
+        margin-bottom: 50px;
+}
+.second-section{
+       padding-bottom: 2%;
+}
+#second-text{
+        margin-bottom: 150px;
+}
+.latest-div{
+        width: 25%;
+        float: left;
+        
+}
+.latest-div img{
+        width:100%;
+}
+.third-section h2{
+        text-align: center;
+        padding-bottom: 60px;
+}
+.latest-top{
+        box-shadow: 10px 10px 30px white ;
+        padding: 10px;
+}
+.sec-wrap{
+        margin-left: 100px;
+        padding-left: 100px;
+}
+
+
+
